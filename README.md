@@ -1,7 +1,7 @@
 # C-Code
 A library of C code. Examples from course work and examples of structures or illustrative of important points.
 
-some of this code contains functions from libraries libcs50.
+<div>Some of this code contains functions from libraries libcs50.</div>
 
 <h2>How to compile</h2>
 <p>- First install the library from cs50 the link for how to do so: <a href="https://cs50.readthedocs.io/libraries/cs50/c/">here.</p>
